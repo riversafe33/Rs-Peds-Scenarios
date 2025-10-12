@@ -6,7 +6,7 @@ Your support goes directly toward upgrading my PC and developing more free scrip
 
 Thank you for your support! ❤️ https://ko-fi.com/riversafe33
 
-# ---------------------------------------------------------------- #
+# --------------------------------------------------------------- #
 
 This script allows you to perform animations when using an animal ped.
 
