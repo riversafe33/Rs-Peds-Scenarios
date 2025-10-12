@@ -5,7 +5,7 @@ lua54 'yes'
 
 author 'riversafe'
 description 'Peds sacenarios script'
-version '1.0'
+version '1.0.0'
 
 client_scripts {
     'config.lua',
