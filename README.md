@@ -17,7 +17,7 @@ It includes 97 preconfigured animals and the option to add more via config.lua.
 The menu can be opened using the /animalmenu command, which can be changed in the config.lua file if desired.
 
 
-# ----------------------------------------------------------------- #
+# ---------------------------------------------------------------- #
 
 <img width="1008" height="839" alt="image" src="https://github.com/user-attachments/assets/e5236cda-4d12-4bf3-89eb-06b6550490d3" />
 
