@@ -12,7 +12,7 @@ This script allows you to perform animations when using an animal ped.
 
 The menu automatically detects the animal ped you are using and offers animations that match the animal.
 
-It includes 97 preconfigured animals and the option to add more via config.lua.
+It includes 197 preconfigured animals and the option to add more via config.lua.
 
 The menu can be opened using the /animalmenu command, which can be changed in the config.lua file if desired.
 
