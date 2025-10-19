@@ -4,10 +4,9 @@ game 'rdr3'
 lua54 'yes'
 
 author 'riversafe'
-description 'Comida para players con peds'
-version '1.0'
+description 'Peds scenarios script'
+version '1.0.0'
 
--- Client Scripts
 client_scripts {
     'config.lua',
     'client.lua',
