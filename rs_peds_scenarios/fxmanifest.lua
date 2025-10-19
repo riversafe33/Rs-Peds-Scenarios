@@ -5,7 +5,7 @@ lua54 'yes'
 
 author 'riversafe'
 description 'Comida para players con peds'
-version '1.0.0'
+version '1.0'
 
 -- Client Scripts
 client_scripts {
