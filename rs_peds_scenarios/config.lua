@@ -267,9 +267,6 @@ Config.AnimalLabels = {
     ["A_C_Horse_Winter02_01"] = "Winter Horse",
     ["A_C_HorseMule_01"] = "Mule",
     ["A_C_HorseMulePainted_01"] = "Painted Mule",
-    ["A_C_MP_HorseCorpse_01"] = "Horse Corpse",
-    ["A_C_MP_Horse_Owlhootvictim_01"] = "Owlhoot Victim",
-    ["A_C_P_C_Horse_01"] = "PC Horse",
     ["MP_A_C_WOLF_01"] = "Black Wolf",
     ["a_c_raccoon_01"] = "Raccon",
     ["a_c_rabbit_01"] = "Rabbit",
@@ -464,9 +461,6 @@ Config.AnimalHorse = {
     "A_C_Horse_Winter02_01",
     "A_C_HorseMule_01",
     "A_C_HorseMulePainted_01",
-    "A_C_MP_HorseCorpse_01",
-    "A_C_MP_Horse_Owlhootvictim_01",
-    "A_C_P_C_Horse_01",
     -- add more animals here
 }
 
@@ -589,4 +583,5 @@ Config.AnimalSparrow = {
 Config.AnimalOwl = {
     "a_c_owl_01",
     -- add more animals here
+
 }
