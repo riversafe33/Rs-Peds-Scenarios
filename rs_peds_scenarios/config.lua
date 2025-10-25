@@ -96,6 +96,7 @@ Config.AnimalLabels = {
     ["A_C_Sheep_01"] = "Sheep",
     ["A_C_Skunk_01"] = "Skunk",
     ["A_C_Wolf"] = "Wolf",
+    ["a_c_dogaustraliansheperd_01"] = "Shepherd",
     ["A_C_DogAmericanFoxhound_01"] = "Foxhound",
     ["A_C_DogBluetickCoonhound_01"] = "Coonhound",
     ["A_C_DogCatahoulaCur_01"] = "Catahoula",
@@ -293,6 +294,7 @@ Config.AnimalDog = {
     "A_C_DogPoodle_01",
     "A_C_DogRufus_01",
     "A_C_DogStreet_01",
+    "a_c_dogaustraliansheperd_01",
     -- add more animals here
 }
 
@@ -585,3 +587,4 @@ Config.AnimalOwl = {
     -- add more animals here
 
 }
+
