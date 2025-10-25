@@ -96,7 +96,7 @@ Config.AnimalLabels = {
     ["A_C_Sheep_01"] = "Sheep",
     ["A_C_Skunk_01"] = "Skunk",
     ["A_C_Wolf"] = "Wolf",
-    ["a_c_dogaustraliansheperd_01"] = "Shepherd",
+    ["a_c_dogaustraliansheperd_01"] = "Sheperd",
     ["A_C_DogAmericanFoxhound_01"] = "Foxhound",
     ["A_C_DogBluetickCoonhound_01"] = "Coonhound",
     ["A_C_DogCatahoulaCur_01"] = "Catahoula",
@@ -587,4 +587,5 @@ Config.AnimalOwl = {
     -- add more animals here
 
 }
+
 
